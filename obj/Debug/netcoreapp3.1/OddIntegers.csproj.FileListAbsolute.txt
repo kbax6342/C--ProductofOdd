@@ -1,0 +1,11 @@
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/obj/Debug/netcoreapp3.1/OddIntegers.csprojAssemblyReference.cache
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/obj/Debug/netcoreapp3.1/OddIntegers.AssemblyInfoInputs.cache
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/obj/Debug/netcoreapp3.1/OddIntegers.AssemblyInfo.cs
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/bin/Debug/netcoreapp3.1/OddIntegers
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/bin/Debug/netcoreapp3.1/OddIntegers.deps.json
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/bin/Debug/netcoreapp3.1/OddIntegers.runtimeconfig.json
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/bin/Debug/netcoreapp3.1/OddIntegers.runtimeconfig.dev.json
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/bin/Debug/netcoreapp3.1/OddIntegers.dll
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/bin/Debug/netcoreapp3.1/OddIntegers.pdb
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/obj/Debug/netcoreapp3.1/OddIntegers.dll
+/Users/pwispassword/Desktop/Visual C#/OddIntegers/obj/Debug/netcoreapp3.1/OddIntegers.pdb
